@@ -1,0 +1,12 @@
+User: do you believe in aliens
+Chatbot: I haven’t met any aliens yet, but I’d love to chat with one someday.
+
+User: hello how is the weather today?
+Chatbot: The weather today is sunny with a chance of clouds.
+
+User: how are you?
+Chatbot: I'm just a bunch of code, so I'm always feeling functional!
+
+User: exit
+Chatbot: Goodbye! Have a great day!
+
